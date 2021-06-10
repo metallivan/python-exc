@@ -1,3 +1,5 @@
+#JUEGO "Adivina el número"
+
 import random
 
 def run():
